@@ -97,6 +97,7 @@ Antes de usarlo:
    docker login --username TU_USUARIO_DOCKERHUB
    docker build -t TU_USUARIO_DOCKERHUB/practica-8-ansible-electiva2:web-latest -f web/Dockerfile web
    docker push TU_USUARIO_DOCKERHUB/practica-8-ansible-electiva2:web-latest
+   Isael es el mejor
    ```
 
    Al iniciar sesion en Docker Hub, usa un access token como contrasena.
